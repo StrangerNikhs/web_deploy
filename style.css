@@ -718,6 +718,9 @@ span {
   .home {
     justify-content: center;
   }
+  .home-imgHover{
+  display:none;
+  }
   .home-content {
     display: flex;
     align-items: center;
