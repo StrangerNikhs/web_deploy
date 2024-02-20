@@ -697,6 +697,9 @@ span {
   .home-content {
     font-size: 5.2rem;
   }
+  .home-imgHover{
+  display:none;
+  }
   .education {
     padding: 10rem 4% 5rem 5%;
   }
