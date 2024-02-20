@@ -697,9 +697,7 @@ span {
   .home-content {
     font-size: 5.2rem;
   }
-  .home-imgHover{
-  display:none;
-  }
+  
   .education {
     padding: 10rem 4% 5rem 5%;
   }
@@ -717,9 +715,6 @@ span {
 @media (max-width: 371px) {
   .home {
     justify-content: center;
-  }
-  .home-imgHover{
-  display:none;
   }
   .home-content {
     display: flex;
