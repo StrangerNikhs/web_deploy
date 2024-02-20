@@ -717,6 +717,7 @@ span {
 @media (max-width: 371px) {
   .home {
     justify-content: center;
+    display: none;
   }
   .home-imgHover{
   display:none;
